@@ -1,9 +1,10 @@
 ### Olá, eu sou Rebehk Jordão 👋
 
 - Estudante de Análise e Desenvolvimento de Sistemas no IFPB
-<a href="https://github.com/Rebehk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rebehk&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rebehk&layout=compact&langs_count=7&theme=github_dark"/>
+<div style="justify-content: center";>
+<a href="https://github.com/Rebehk" >
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api?username=Rebehk&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rebehk&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 <div style="display: inline_block"><br>
