@@ -24,3 +24,5 @@
   
 ![Snake animation](https://github.com/Rebehk/Rebehk/blob/output/github-contribution-grid-snake.svg)
 
+</div>
+
