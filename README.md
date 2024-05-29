@@ -13,13 +13,9 @@
 
 
 
+[![Rebehk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rebehk&show_icons=true&title_color=23e200&icon_color=23e200&border_color=23e200&text_color=dbdbdb&bg_color=21262d)](https://github.com/Rebehk)
 
-
-<div style="justify-content: center";>
-<a href="https://github.com/Rebehk" >
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api?username=Rebehk&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rebehk&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rebehk&layout=compact&title_color=23e200&icon_color=23e200&border_color=23e200&text_color=dbdbdb&bg_color=21262d)](https://github.com/Rebehk)
 
 
 
