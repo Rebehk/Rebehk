@@ -1,4 +1,4 @@
-### Olá, eu sou Rebehk Jordão 👋
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Rebehk%20Jordão&textBg=false&rotate=0&descAlignY=50&reversal=true)
 
 - Estudante de Análise e Desenvolvimento de Sistemas no IFPB
 <div style="justify-content: center";>
