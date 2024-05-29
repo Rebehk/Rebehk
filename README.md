@@ -1,25 +1,34 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Rebehk%20Jordão&textBg=false&rotate=0&descAlignY=50&reversal=true)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=39ff15&text=Rebehk%20Jordão&fontColor=FFFFFF)
 
-- Estudante de Análise e Desenvolvimento de Sistemas no IFPB
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=27FB00&center=true&vCenter=true&random=false&width=1000&lines=Graduando+em+An%C3%A1lise+e+Desenvolvimento+de+Sistemas+no+IFPB)](https://git.io/typing-svg)
+
+
+![Static Badge](https://img.shields.io/badge/html-%2323e200?style=for-the-badge&logo=html5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/css-%2323e200?style=for-the-badge&logo=css3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/javascript-%2323e200?style=for-the-badge&logo=javascript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/typescript-%2323e200?style=for-the-badge&logo=typeScript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/node-%2323e200?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Static Badge](https://img.shields.io/badge/react-%2323e200?style=for-the-badge&logo=react&logoColor=white)
+
+
+
+
+
+
 <div style="justify-content: center";>
 <a href="https://github.com/Rebehk" >
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api?username=Rebehk&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rebehk&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-<div style="display: inline_block"><br>
- 
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- </div>
+
 
 ##
 
 <div> 
   
-  <a href = "mailto:rebehk.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rebehkjordao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:rebehk.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-2323e200?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rebehkjordao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%2323e200?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/Rebehk/Rebehk/blob/output/github-contribution-grid-snake.svg)
 
